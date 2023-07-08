@@ -1,0 +1,4 @@
+baseURL = 'http://plinuckment.github.io/'
+languageCode = 'en-us'
+title = 'Plinuckment'
+theme = 'paper'
